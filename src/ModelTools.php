@@ -3,7 +3,7 @@
 namespace modval;
 
 
-abstract class Model extends Validators
+abstract class ModelTools extends Validators
 {
     /** @var  array */
     private $errors=[];

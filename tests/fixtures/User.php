@@ -2,9 +2,9 @@
 
 namespace tests\fixtures;
 
-use modval\Model;
+use modval\ModelTools;
 
-class User extends Model
+class User extends ModelTools
 {
 
     /** @var string*/
